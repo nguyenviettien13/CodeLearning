@@ -1,0 +1,6 @@
+﻿  IdentifyQuarter.cpp
+c:\users\tienn\documents\visual studio 2017\projects\task085\task085\identifyquarter.cpp(34): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\tienn\documents\visual studio 2017\projects\task085\task085\identifyquarter.cpp(34): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\tienn\documents\visual studio 2017\projects\task085\task085\identifyquarter.cpp(34): note: the missing variadic argument 2 is required by format string '%3[0-9]'
+  c:\users\tienn\documents\visual studio 2017\projects\task085\task085\identifyquarter.cpp(34): note: this argument is used as a buffer size
+  task085.vcxproj -> c:\Users\tienn\documents\visual studio 2017\Projects\task085\Debug\task085.exe

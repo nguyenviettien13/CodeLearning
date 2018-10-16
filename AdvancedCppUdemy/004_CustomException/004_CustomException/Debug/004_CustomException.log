@@ -1,0 +1,3 @@
+﻿  CustomException.cpp
+d:\workspace\codelearning\learningccpp\advancedcppudemy\004_customexception\004_customexception\customexception.cpp(21): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  004_CustomException.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\AdvancedCppUdemy\004_CustomException\Debug\004_CustomException.exe

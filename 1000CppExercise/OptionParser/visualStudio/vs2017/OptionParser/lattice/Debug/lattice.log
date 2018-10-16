@@ -1,0 +1,125 @@
+﻿  HTKLattice.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\map.h(138): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_oolm\src\multialign.h(37): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(136): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(142): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(148): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(154): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(205): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(212): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(218): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(431): warning C4244: 'return': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(438): warning C4244: 'return': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(443): warning C4244: 'return': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(830): warning C4244: '+=': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(835): warning C4244: '+=': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(841): warning C4244: '+=': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(846): warning C4244: '+=': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(851): warning C4244: '+=': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(855): warning C4244: '+=': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(859): warning C4244: '+=': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(864): warning C4244: '+=': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(869): warning C4244: '+=': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(874): warning C4244: '+=': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(879): warning C4244: '+=': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(884): warning C4244: '+=': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(889): warning C4244: '+=': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(894): warning C4244: '+=': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(899): warning C4244: '+=': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(940): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(1054): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(670): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(691): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(694): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(765): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(772): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(776): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(948): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(969): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(972): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(1051): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(1072): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(1075): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(1078): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(1081): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(1949): warning C4244: '=': conversion from 'double' to 'NBestScore', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(1990): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(2216): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(2274): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(2103): warning C4101: 'thisPhonePtr': unreferenced local variable
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(2156): warning C4101: 'tmpIndex': unreferenced local variable
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\htklattice.cc(2438): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+  lattice-tool.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\map.h(138): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_oolm\src\multialign.h(37): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\lattice-tool.cc(441): warning C4244: '+=': conversion from 'Prob' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\lattice-tool.cc(910): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\lattice-tool.cc(1043): warning C4244: 'argument': conversion from 'double' to 'NBestTimestamp', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\lattice-tool.cc(1042): warning C4244: 'argument': conversion from 'double' to 'NBestTimestamp', possible loss of data
+  Lattice.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\map.h(138): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_oolm\src\multialign.h(37): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\lattice.cc(330): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\lattice.cc(345): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\lattice.cc(381): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\lattice.cc(585): warning C4244: '=': conversion from 'LogP2' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\lattice.cc(806): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\lattice.cc(906): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\lattice.cc(969): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\lattice.cc(1480): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\lattice.cc(1764): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\lattice.cc(2029): warning C4244: '=': conversion from 'LogP2' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\lattice.cc(2017): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+  LatticeAlign.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\map.h(138): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_oolm\src\multialign.h(37): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\latticealign.cc(115): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\latticealign.cc(127): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_lattice\src\latticealign.cc(210): warning C4244: 'initializing': conversion from 'LogP2' to 'LogP', possible loss of data
+  LatticeDecode.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\map.h(138): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'

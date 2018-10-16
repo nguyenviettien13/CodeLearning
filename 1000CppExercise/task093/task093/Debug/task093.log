@@ -1,0 +1,3 @@
+﻿  Prime.cpp
+c:\users\tienn\documents\visual studio 2017\projects\task093\task093\prime.cpp(16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  task093.vcxproj -> c:\Users\tienn\documents\visual studio 2017\Projects\task093\Debug\task093.exe

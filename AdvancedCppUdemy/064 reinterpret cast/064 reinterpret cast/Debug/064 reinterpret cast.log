@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\workspace\codelearning\learningccpp\advancedcppudemy\064 reinterpret cast\064 reinterpret cast\source.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\workspace\codelearning\learningccpp\advancedcppudemy\064 reinterpret cast\064 reinterpret cast\source.cpp(43): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\workspace\codelearning\learningccpp\advancedcppudemy\064 reinterpret cast\064 reinterpret cast\source.cpp(44): error C2440: 'reinterpret_cast': cannot convert from 'float' to 'int'
+  d:\workspace\codelearning\learningccpp\advancedcppudemy\064 reinterpret cast\064 reinterpret cast\source.cpp(44): note: Conversion is a valid standard conversion, which can be performed implicitly or by use of static_cast, C-style cast or function-style cast

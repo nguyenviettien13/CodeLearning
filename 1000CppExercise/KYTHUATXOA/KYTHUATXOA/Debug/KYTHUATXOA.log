@@ -1,0 +1,5 @@
+﻿  Remover.cpp
+d:\workspace\codelearning\learningccpp\kythuatxoa\kythuatxoa\remover.cpp(70): warning C4566: character represented by universal-character-name '\u1EA7' cannot be represented in the current code page (1252)
+d:\workspace\codelearning\learningccpp\kythuatxoa\kythuatxoa\remover.cpp(70): warning C4566: character represented by universal-character-name '\u1EED' cannot be represented in the current code page (1252)
+d:\workspace\codelearning\learningccpp\kythuatxoa\kythuatxoa\remover.cpp(139): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  KYTHUATXOA.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\KYTHUATXOA\Debug\KYTHUATXOA.exe

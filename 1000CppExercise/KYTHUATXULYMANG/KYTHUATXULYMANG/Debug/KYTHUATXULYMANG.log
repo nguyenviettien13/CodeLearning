@@ -1,0 +1,8 @@
+﻿  KyThuatXuLyMang.cpp
+d:\workspace\codelearning\learningccpp\kythuatxulymang\kythuatxulymang\kythuatxulymang.h(77): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatxulymang\kythuatxulymang\kythuatxulymang.h(85): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatxulymang\kythuatxulymang\kythuatxulymang.cpp(236): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatxulymang\kythuatxulymang\kythuatxulymang.cpp(257): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatxulymang\kythuatxulymang\kythuatxulymang.cpp(677): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+d:\workspace\codelearning\learningccpp\kythuatxulymang\kythuatxulymang\kythuatxulymang.cpp(27): warning C4172: returning address of local variable or temporary: arr
+  KYTHUATXULYMANG.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\KYTHUATXULYMANG\Debug\KYTHUATXULYMANG.exe

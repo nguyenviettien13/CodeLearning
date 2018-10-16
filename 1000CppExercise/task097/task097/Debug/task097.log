@@ -1,0 +1,3 @@
+﻿  Triangle.cpp
+c:\users\tienn\documents\visual studio 2017\projects\task097\task097\triangle.cpp(44): warning C4305: 'argument': truncation from 'double' to 'float'
+  task097.vcxproj -> c:\Users\tienn\documents\visual studio 2017\Projects\task097\Debug\task097.exe

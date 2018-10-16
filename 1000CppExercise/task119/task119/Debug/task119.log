@@ -1,0 +1,4 @@
+﻿  Prime.cpp
+d:\workspace\codelearning\learningccpp\task119\task119\prime.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\workspace\codelearning\learningccpp\task119\task119\prime.cpp(60): warning C4930: 'Dog a(void)': prototyped function not called (was a variable definition intended?)
+  task119.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\task119\Debug\task119.exe

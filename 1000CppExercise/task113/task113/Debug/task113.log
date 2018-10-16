@@ -1,0 +1,4 @@
+﻿  Sin.cpp
+d:\workspace\codelearning\learningccpp\task113\task113\sin.cpp(25): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\workspace\codelearning\learningccpp\task113\task113\sin.cpp(37): warning C4305: 'argument': truncation from 'double' to 'float'
+  task113.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\task113\Debug\task113.exe

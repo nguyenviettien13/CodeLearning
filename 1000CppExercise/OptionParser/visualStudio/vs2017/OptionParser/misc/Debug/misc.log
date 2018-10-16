@@ -1,0 +1,25 @@
+﻿  Debug.cc
+  File.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_misc\src\file.cc(48): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_misc\src\file.cc(126): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\workspace\codelearning\learningccpp\optionparser\lib_misc\src\file.cc(182): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_misc\src\file.cc(231): error C4996: 'fdopen': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fdopen. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2455): note: see declaration of 'fdopen'
+d:\workspace\codelearning\learningccpp\optionparser\lib_misc\src\file.cc(749): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_misc\src\file.cc(751): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_misc\src\file.cc(759): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_misc\src\file.cc(761): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_misc\src\file.cc(763): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  MStringTokUtil.cc
+  tclmain.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_misc\src\tclmain.cc(8): fatal error C1083: Cannot open include file: 'tcl.h': No such file or directory
+  testFile.cc
+  testRand.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_misc\src\testrand.cc(22): error C3861: 'srand48': identifier not found
+d:\workspace\codelearning\learningccpp\optionparser\lib_misc\src\testrand.cc(26): error C3861: 'lrand48': identifier not found
+d:\workspace\codelearning\learningccpp\optionparser\lib_misc\src\testrand.cc(31): error C3861: 'drand48': identifier not found
+  tls.cc
+  tserror.cc
+  Generating Code...

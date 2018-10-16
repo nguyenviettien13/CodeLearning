@@ -1,0 +1,3 @@
+﻿  string.cpp
+c:\users\tienn\documents\visual studio 2017\projects\testlinkproject\libcpp\string.cpp(937): warning C4018: '<': signed/unsigned mismatch
+  testlinkproject.vcxproj -> c:\users\tienn\documents\visual studio 2017\Projects\testlinkproject\Debug\testlinkproject.exe

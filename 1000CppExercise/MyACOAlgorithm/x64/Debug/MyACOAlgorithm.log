@@ -1,0 +1,4 @@
+﻿  antal.cpp
+d:\workspace\learningccpp\myacoalgorithm\antal.cpp(95): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\workspace\learningccpp\myacoalgorithm\antal.cpp(96): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MyACOAlgorithm.vcxproj -> D:\WorkSpace\LearningCCPP\MyACOAlgorithm\x64\Debug\MyACOAlgorithm.exe

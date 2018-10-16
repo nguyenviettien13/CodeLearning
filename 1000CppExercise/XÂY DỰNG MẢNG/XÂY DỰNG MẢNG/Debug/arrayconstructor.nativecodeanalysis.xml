@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\workspace\codelearning\learningccpp\xây dựng mảng\xây dựng mảng\</FILEPATH>
+      <FILENAME>arrayconstructor.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>ArrayConstructor::{ctor}</FUNCTION>
+    <DECORATED>??0ArrayConstructor@@QAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

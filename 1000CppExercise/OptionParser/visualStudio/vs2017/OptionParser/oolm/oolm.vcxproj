@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{6F222771-E207-4B29-9627-D00821E85344}</ProjectGuid>
+    <RootNamespace>oolm</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>D:\WorkSpace\CodeLearning\LearningCCPP\OptionParser\lib_misc\src;D:\WorkSpace\CodeLearning\LearningCCPP\OptionParser\lib_oolm\src;D:\WorkSpace\CodeLearning\LearningCCPP\OptionParser\lib_z\src;D:\WorkSpace\CodeLearning\LearningCCPP\OptionParser\lib_lattice\src;D:\WorkSpace\CodeLearning\LearningCCPP\OptionParser\lib_dstruct\src;D:\WorkSpace\CodeLearning\LearningCCPP\OptionParser\lib_flm\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\lib_oolm\src\AdaptiveMarginals.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\AdaptiveMix.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\BayesMix.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\Bleu.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\CacheLM.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\ClassNgram.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\Counts.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\DecipherNgram.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\DFNgram.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\Discount.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\DynamicLM.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\HiddenNgram.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\HiddenSNgram.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\hmaxent.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\HMMofNgrams.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\IntTrellis.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\LM.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\LMClient.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\LMStats.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\LMThreads.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\LoglinearMix.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\MEModel.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\MSWebNgramLM.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\MultiAlign.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\MultiwordLM.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\MultiwordVocab.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\NBest.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\NBestSet.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\Ngram.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\NgramCountLM.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\NgramProbArrayTrie.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\NgramStats.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\NonzeroLM.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\NullLM.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\Prob.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\RefList.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\RemoteLM.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\SimpleClassNgram.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\SkipNgram.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\StopNgram.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\StopNgramStats.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\SubVocab.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\TaggedNgram.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\TaggedNgramStats.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\TaggedVocab.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\TextStats.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\Trellis.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\VarNgram.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\Vocab.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\VocabDistance.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\VocabMap.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\VocabMultiMap.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\WordAlign.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\WordLattice.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\WordMesh.h" />
+    <ClInclude Include="..\..\..\..\lib_oolm\src\XCount.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\lib_oolm\src\AdaptiveMarginals.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\AdaptiveMix.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\anti-ngram.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\BayesMix.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\Bleu.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\CacheLM.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\ClassNgram.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\Counts.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\DecipherNgram.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\DFNgram.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\disambig.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\Discount.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\DynamicLM.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\hidden-ngram.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\HiddenNgram.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\HiddenSNgram.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\hmaxent.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\HMMofNgrams.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\hoeffding.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\IntTrellis.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\LM.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\LMClient.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\LMStats.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\LMThreads.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\LoglinearMix.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\matherr.c" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\MEModel.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\MSWebNgramLM.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\multi-ngram.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\MultiwordLM.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\MultiwordVocab.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\nbest-lattice.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\nbest-mix.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\nbest-optimize.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\nbest-pron-score.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\NBest.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\NBestSet.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\ngram-class.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\ngram-count.cpp" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\ngram-merge.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\ngram.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\NgramCountLM.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\NgramLM.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\NgramProbArrayTrie.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\NgramStats.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\NgramStatsDouble.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\NgramStatsFloat.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\NgramStatsInt.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\NgramStatsLong.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\NgramStatsLongLong.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\NgramStatsShort.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\NgramStatsXCount.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\NonzeroLM.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\Prob.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\RefList.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\segment-nbest.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\segment.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\SimpleClassNgram.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\simpleTrigram.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\SkipNgram.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\StopNgram.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\StopNgramStats.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\SubVocab.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\TaggedNgram.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\TaggedNgramStats.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\TaggedVocab.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\testError.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\testHash.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\testLattice.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\testMix.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\testMultiReadLM.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\testNBest.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\testNgram.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\testNgramAlloc.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\testNgramProbArrayTrie.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\testParseFloat.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\testProb.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\testQuantized.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\testTaggedVocab.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\testVocabDistance.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\TextStats.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\tolower.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\Trellis.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\VarNgram.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\Vocab.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\VocabDistance.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\VocabMap.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\VocabMultiMap.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\WordAlign.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\WordLattice.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\WordMesh.cc" />
+    <ClCompile Include="..\..\..\..\lib_oolm\src\XCount.cc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

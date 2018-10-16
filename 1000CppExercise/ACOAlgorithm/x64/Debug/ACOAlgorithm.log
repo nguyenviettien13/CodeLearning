@@ -1,0 +1,10 @@
+﻿  antalElitist.cpp
+d:\workspace\learningccpp\acoalgorithm\antalelitist.cpp(95): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\workspace\learningccpp\acoalgorithm\antalelitist.cpp(96): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\workspace\learningccpp\acoalgorithm\antalelitist.cpp(349): error C3861: 'time': identifier not found
+  antalRank.cpp
+d:\workspace\learningccpp\acoalgorithm\antalrank.cpp(95): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\workspace\learningccpp\acoalgorithm\antalrank.cpp(96): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\workspace\learningccpp\acoalgorithm\antalrank.cpp(251): warning C4101: 'ant': unreferenced local variable
+d:\workspace\learningccpp\acoalgorithm\antalrank.cpp(377): error C3861: 'time': identifier not found
+  Generating Code...

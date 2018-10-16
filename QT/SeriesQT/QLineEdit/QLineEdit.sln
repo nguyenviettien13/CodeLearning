@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QLineEdit", "QLineEdit.vcxproj", "{DCC2A883-0138-3CC4-AB9C-4E1B247B1F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCC2A883-0138-3CC4-AB9C-4E1B247B1F89}.Debug|x64.ActiveCfg = Debug|x64
+		{DCC2A883-0138-3CC4-AB9C-4E1B247B1F89}.Debug|x64.Build.0 = Debug|x64
+		{DCC2A883-0138-3CC4-AB9C-4E1B247B1F89}.Release|x64.ActiveCfg = Release|x64
+		{DCC2A883-0138-3CC4-AB9C-4E1B247B1F89}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {849DFC19-3EBC-4692-A243-A79FBA5D23F8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+﻿  AdaptiveMarginals.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\map.h(138): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_oolm\src\adaptivemarginals.cc(72): warning C4244: '=': conversion from 'double' to 'LogP', possible loss of data
+  AdaptiveMix.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\map.h(138): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+d:\workspace\codelearning\learningccpp\optionparser\lib_oolm\src\adaptivemix.h(85): error C2059: syntax error: '.'
+d:\workspace\codelearning\learningccpp\optionparser\lib_oolm\src\adaptivemix.cc(166): warning C4244: '+=': conversion from 'double' to 'LogP', possible loss of data
+d:\workspace\codelearning\learningccpp\optionparser\lib_oolm\src\adaptivemix.cc(309): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+  anti-ngram.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\map.h(138): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+  BayesMix.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\map.h(138): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+  Bleu.cc
+  CacheLM.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\map.h(138): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+  ClassNgram.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\map.h(138): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'

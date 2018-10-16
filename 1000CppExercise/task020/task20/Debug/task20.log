@@ -1,0 +1,3 @@
+﻿  FindCommonDivisor.cpp
+d:\workspace\codelearning\learningccpp\task020\task20\findcommondivisor.cpp(21): warning C4018: '<=': signed/unsigned mismatch
+  task20.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\task020\Debug\task20.exe

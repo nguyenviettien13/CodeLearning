@@ -1,0 +1,31 @@
+﻿  Finder.cpp
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.h(11): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.h(13): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.h(44): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.h(51): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.h(56): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.h(69): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.h(87): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.h(95): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.h(108): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.h(117): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.h(125): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.h(134): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.h(150): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.h(155): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.h(172): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.h(203): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.cpp(38): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.cpp(41): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.cpp(52): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.cpp(54): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.cpp(82): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.cpp(123): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.cpp(149): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.cpp(192): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.cpp(217): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.cpp(234): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.cpp(362): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.cpp(373): warning C4114: same type qualifier used more than once
+c:\users\tienn\documents\visual studio 2017\projects\task155\task155\finder.cpp(445): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+  task155.vcxproj -> C:\Users\tienn\Documents\Visual Studio 2017\Projects\task155\x64\Debug\task155.exe

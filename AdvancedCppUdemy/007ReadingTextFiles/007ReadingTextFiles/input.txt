@@ -1,0 +1,4 @@
+read	a	line	1   1
+read a line 2
+read a line 3
+read a line 4

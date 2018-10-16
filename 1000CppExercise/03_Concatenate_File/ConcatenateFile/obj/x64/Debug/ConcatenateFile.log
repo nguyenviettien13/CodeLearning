@@ -1,0 +1,8 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '10.3.16.9'
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  Linking objects
+  ConcatenateFile.vcxproj -> D:\03_Concatenate_File\ConcatenateFile\bin\x64\Debug\ConcatenateFile.out

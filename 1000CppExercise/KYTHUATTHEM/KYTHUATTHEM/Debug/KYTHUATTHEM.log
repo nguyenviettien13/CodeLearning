@@ -1,0 +1,6 @@
+﻿  Adder.cpp
+d:\workspace\codelearning\learningccpp\kythuatthem\kythuatthem\adder.h(25): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatthem\kythuatthem\adder.cpp(65): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\workspace\codelearning\learningccpp\kythuatthem\kythuatthem\adder.cpp(85): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\workspace\codelearning\learningccpp\kythuatthem\kythuatthem\adder.cpp(109): warning C4114: same type qualifier used more than once
+  KYTHUATTHEM.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\KYTHUATTHEM\Debug\KYTHUATTHEM.exe

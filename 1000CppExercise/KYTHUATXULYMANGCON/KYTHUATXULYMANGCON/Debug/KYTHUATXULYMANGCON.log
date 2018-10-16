@@ -1,0 +1,15 @@
+﻿  SubArray.cpp
+d:\workspace\codelearning\learningccpp\kythuatxulymangcon\kythuatxulymangcon\subarray.h(47): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatxulymangcon\kythuatxulymangcon\subarray.h(55): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatxulymangcon\kythuatxulymangcon\subarray.h(62): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatxulymangcon\kythuatxulymangcon\subarray.h(71): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatxulymangcon\kythuatxulymangcon\subarray.h(130): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatxulymangcon\kythuatxulymangcon\subarray.cpp(74): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\codelearning\learningccpp\kythuatxulymangcon\kythuatxulymangcon\subarray.cpp(173): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatxulymangcon\kythuatxulymangcon\subarray.cpp(194): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatxulymangcon\kythuatxulymangcon\subarray.cpp(228): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatxulymangcon\kythuatxulymangcon\subarray.cpp(235): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\workspace\codelearning\learningccpp\kythuatxulymangcon\kythuatxulymangcon\subarray.cpp(240): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\workspace\codelearning\learningccpp\kythuatxulymangcon\kythuatxulymangcon\subarray.cpp(265): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatxulymangcon\kythuatxulymangcon\subarray.cpp(448): warning C4114: same type qualifier used more than once
+  KYTHUATXULYMANGCON.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\KYTHUATXULYMANGCON\Debug\KYTHUATXULYMANGCON.exe

@@ -1,0 +1,3 @@
+﻿  Amstrong.cpp
+d:\workspace\codelearning\learningccpp\task121\task121\amstrong.cpp(41): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  task121.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\task121\Debug\task121.exe

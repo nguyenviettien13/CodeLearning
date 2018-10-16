@@ -1,0 +1,19 @@
+﻿  Finder.cpp
+d:\workspace\codelearning\learningccpp\task142\task142\finder.h(10): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\task142\task142\finder.h(17): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\task142\task142\finder.h(22): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\task142\task142\finder.h(27): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\task142\task142\finder.h(32): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\task142\task142\finder.h(38): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\task142\task142\finder.h(45): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\task142\task142\finder.cpp(15): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\task142\task142\finder.cpp(26): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\task142\task142\finder.cpp(41): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\task142\task142\finder.cpp(55): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\task142\task142\finder.cpp(68): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\task142\task142\finder.cpp(82): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\task142\task142\finder.cpp(95): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\task142\task142\finder.cpp(117): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\workspace\codelearning\learningccpp\task142\task142\finder.cpp(158): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\workspace\codelearning\learningccpp\task142\task142\finder.cpp(158): warning C4305: 'initializing': truncation from 'double' to 'float'
+  task142.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\task142\Debug\task142.exe

@@ -1,0 +1,3 @@
+﻿  Sum.cpp
+c:\users\tienn\documents\visual studio 2017\projects\task073\task073\sum.cpp(16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  task073.vcxproj -> C:\Users\tienn\documents\visual studio 2017\Projects\task073\Debug\task073.exe

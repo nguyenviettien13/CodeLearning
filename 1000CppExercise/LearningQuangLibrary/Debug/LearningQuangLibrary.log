@@ -1,0 +1,28 @@
+﻿  file.cpp
+d:\03_concatenate_file\concatenatefile\file.cpp(66): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(67): warning C4244: 'argument': conversion from '__int64' to '::size_t', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(107): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(108): warning C4244: 'argument': conversion from '__int64' to '::size_t', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(116): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(117): warning C4244: 'argument': conversion from '__int64' to '::size_t', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(125): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(126): warning C4244: 'argument': conversion from '__int64' to '::size_t', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(348): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(349): warning C4244: 'argument': conversion from '__int64' to '::size_t', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(389): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(390): warning C4244: 'argument': conversion from '__int64' to '::size_t', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(398): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(399): warning C4244: 'argument': conversion from '__int64' to '::size_t', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(407): warning C4244: 'argument': conversion from '__int64' to '::size_t', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(448): warning C4244: 'argument': conversion from 'INT64' to '::size_t', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(453): warning C4244: 'initializing': conversion from 'INT64' to 'int', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(471): warning C4244: 'argument': conversion from '__int64' to '::size_t', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(777): warning C4244: 'argument': conversion from '__int64' to '::size_t', possible loss of data
+d:\03_concatenate_file\concatenatefile\file.cpp(793): warning C4244: 'argument': conversion from '__int64' to '::size_t', possible loss of data
+  main.cpp
+d:\03_concatenate_file\concatenatefile\main.cpp(9): warning C4129: 'W': unrecognized character escape sequence
+d:\03_concatenate_file\concatenatefile\main.cpp(9): warning C4129: 'L': unrecognized character escape sequence
+d:\03_concatenate_file\concatenatefile\main.cpp(9): warning C4129: 'C': unrecognized character escape sequence
+d:\03_concatenate_file\concatenatefile\main.cpp(9): warning C4129: 'm': unrecognized character escape sequence
+  Generating Code...
+  LearningQuangLibrary.vcxproj -> D:\WorkSpace\LearningCCPP\LearningQuangLibrary\Debug\LearningQuangLibrary.exe

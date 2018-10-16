@@ -1,0 +1,10 @@
+﻿  findIndex.cpp
+d:\workspace\codelearning\learningccpp\task123\task123\findindex.cpp(79): warning C4244: 'initializing': conversion from 'std::numeric_limits<unsigned int>::_Ty' to 'float', possible loss of data
+d:\workspace\codelearning\learningccpp\task123\task123\findindex.cpp(82): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+d:\workspace\codelearning\learningccpp\task123\task123\findindex.cpp(84): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+d:\workspace\codelearning\learningccpp\task123\task123\findindex.cpp(96): warning C4018: '<=': signed/unsigned mismatch
+d:\workspace\codelearning\learningccpp\task123\task123\findindex.cpp(249): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\workspace\codelearning\learningccpp\task123\task123\findindex.cpp(249): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\workspace\codelearning\learningccpp\task123\task123\findindex.cpp(257): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\workspace\codelearning\learningccpp\task123\task123\findindex.cpp(167): warning C4715: 'findIndex::mergeSort': not all control paths return a value
+  task123.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\task123\Debug\task123.exe

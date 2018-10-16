@@ -1,0 +1,3 @@
+﻿  Month.cpp
+d:\workspace\codelearning\learningccpp\task101\task101\month.cpp(47): warning C4715: 'Month::showNumberOfDay': not all control paths return a value
+  task101.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\task101\Debug\task101.exe

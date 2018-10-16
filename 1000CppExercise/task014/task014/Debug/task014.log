@@ -1,0 +1,3 @@
+﻿  Sum.cpp
+d:\workspace\codelearning\learningccpp\task014\task014\sum.cpp(29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  task014.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\task014\Debug\task014.exe

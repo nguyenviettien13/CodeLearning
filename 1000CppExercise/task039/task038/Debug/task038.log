@@ -1,0 +1,3 @@
+﻿  NestedSquareRoot.cpp
+c:\users\tienn\documents\visual studio 2017\projects\task038\task038\nestedsquareroot.cpp(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  task038.vcxproj -> C:\Users\tienn\Documents\Visual Studio 2017\Projects\task038\Debug\task038.exe

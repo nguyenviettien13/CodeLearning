@@ -1,0 +1,43 @@
+﻿  Counter.cpp
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(13): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(19): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(25): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(32): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(38): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(48): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(54): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(60): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(61): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(67): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(68): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(74): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(75): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(80): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(84): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(91): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(97): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(98): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(107): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.h(113): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(17): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(32): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(45): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(70): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(83): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(96): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(119): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(139): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(152): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(177): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(190): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(214): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(231): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(245): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(260): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(292): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(317): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(347): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(418): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(445): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdem\kythuatdem\counter.cpp(476): warning C4114: same type qualifier used more than once
+  KYTHUATDEM.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\KYTHUATDEM\Debug\KYTHUATDEM.exe

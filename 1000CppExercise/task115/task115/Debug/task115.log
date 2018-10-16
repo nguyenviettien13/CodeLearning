@@ -1,0 +1,3 @@
+﻿  Student.cpp
+d:\workspace\codelearning\learningccpp\task115\task115\student.cpp(60): warning C4305: 'argument': truncation from 'double' to 'float'
+  task115.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\task115\Debug\task115.exe

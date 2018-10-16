@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "041 nested template classes", "041 nested template classes\041 nested template classes.vcxproj", "{11069135-4F6E-4264-BD4B-E564F73EECFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11069135-4F6E-4264-BD4B-E564F73EECFE}.Debug|x64.ActiveCfg = Debug|x64
+		{11069135-4F6E-4264-BD4B-E564F73EECFE}.Debug|x64.Build.0 = Debug|x64
+		{11069135-4F6E-4264-BD4B-E564F73EECFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{11069135-4F6E-4264-BD4B-E564F73EECFE}.Debug|x86.Build.0 = Debug|Win32
+		{11069135-4F6E-4264-BD4B-E564F73EECFE}.Release|x64.ActiveCfg = Release|x64
+		{11069135-4F6E-4264-BD4B-E564F73EECFE}.Release|x64.Build.0 = Release|x64
+		{11069135-4F6E-4264-BD4B-E564F73EECFE}.Release|x86.ActiveCfg = Release|Win32
+		{11069135-4F6E-4264-BD4B-E564F73EECFE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A43EE65-1609-4B7A-A075-7F03DAE40256}
+	EndGlobalSection
+EndGlobal

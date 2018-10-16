@@ -1,0 +1,3 @@
+﻿  SquareNumber.cpp
+c:\users\tienn\documents\visual studio 2017\projects\task033\task033\squarenumber.cpp(16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  task033.vcxproj -> C:\Users\tienn\Documents\Visual Studio 2017\Projects\task033\Debug\task033.exe

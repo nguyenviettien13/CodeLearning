@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\workspace\codelearning\learningccpp\changemoney\test\main.cpp(27): warning C4305: 'argument': truncation from 'double' to 'float'
+  test.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\ChangeMoney\Debug\test.exe

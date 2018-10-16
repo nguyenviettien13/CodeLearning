@@ -1,0 +1,3 @@
+﻿  062 static casts.cpp
+d:\workspace\codelearning\learningccpp\advancedcppudemy\062 static casts\062 static casts\062 static casts.cpp(30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  062 static casts.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\AdvancedCppUdemy\062 static casts\Debug\062 static casts.exe

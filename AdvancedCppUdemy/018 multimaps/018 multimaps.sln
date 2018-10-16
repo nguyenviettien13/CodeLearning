@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "018 multimaps", "018 multimaps\018 multimaps.vcxproj", "{41C446C5-E075-4699-8057-FF15646E2594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41C446C5-E075-4699-8057-FF15646E2594}.Debug|x64.ActiveCfg = Debug|x64
+		{41C446C5-E075-4699-8057-FF15646E2594}.Debug|x64.Build.0 = Debug|x64
+		{41C446C5-E075-4699-8057-FF15646E2594}.Debug|x86.ActiveCfg = Debug|Win32
+		{41C446C5-E075-4699-8057-FF15646E2594}.Debug|x86.Build.0 = Debug|Win32
+		{41C446C5-E075-4699-8057-FF15646E2594}.Release|x64.ActiveCfg = Release|x64
+		{41C446C5-E075-4699-8057-FF15646E2594}.Release|x64.Build.0 = Release|x64
+		{41C446C5-E075-4699-8057-FF15646E2594}.Release|x86.ActiveCfg = Release|Win32
+		{41C446C5-E075-4699-8057-FF15646E2594}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0A3E8F9-F6E2-45B2-A00C-41BB998ABB3C}
+	EndGlobalSection
+EndGlobal

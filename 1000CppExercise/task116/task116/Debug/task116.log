@@ -1,0 +1,3 @@
+﻿  Sum.cpp
+d:\workspace\codelearning\learningccpp\task116\task116\sum.cpp(33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  task116.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\task116\Debug\task116.exe

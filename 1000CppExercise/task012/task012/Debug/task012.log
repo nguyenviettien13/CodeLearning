@@ -1,0 +1,3 @@
+﻿  ExponentSum.cpp
+d:\workspace\codelearning\learningccpp\task012\task012\exponentsum.cpp(30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  task012.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\task012\Debug\task012.exe

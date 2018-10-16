@@ -1,0 +1,4 @@
+﻿  Prime.cpp
+c:\users\tienn\documents\visual studio 2017\projects\task031\task031\prime.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\tienn\documents\visual studio 2017\projects\task031\task031\prime.cpp(30): warning C4715: 'Prime::isPrime': not all control paths return a value
+  task031.vcxproj -> C:\Users\tienn\Documents\Visual Studio 2017\Projects\task031\Debug\task031.exe

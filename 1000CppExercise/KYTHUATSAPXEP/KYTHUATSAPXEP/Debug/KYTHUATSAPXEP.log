@@ -1,0 +1,3 @@
+﻿  Arrangement.cpp
+d:\workspace\codelearning\learningccpp\kythuatsapxep\kythuatsapxep\arrangement.cpp(181): warning C4804: '>': unsafe use of type 'bool' in operation
+  KYTHUATSAPXEP.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\KYTHUATSAPXEP\Debug\KYTHUATSAPXEP.exe

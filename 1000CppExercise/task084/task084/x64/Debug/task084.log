@@ -1,0 +1,4 @@
+﻿  SimpleEquation.cpp
+d:\workspace\codelearning\learningccpp\task084\task084\simpleequation.cpp(7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\workspace\codelearning\learningccpp\task084\task084\simpleequation.cpp(8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  task084.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\task100\x64\Debug\task084.lib

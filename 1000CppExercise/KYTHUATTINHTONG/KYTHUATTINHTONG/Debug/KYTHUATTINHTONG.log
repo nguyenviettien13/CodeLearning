@@ -1,0 +1,33 @@
+﻿  SUMTOOL.cpp
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(14): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(20): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(25): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(32): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(40): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(42): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(50): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(52): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(61): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(63): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(71): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(73): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(75): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(81): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(87): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(92): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(103): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(117): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(131): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(149): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(163): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(180): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(197): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(226): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(243): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.h(272): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.cpp(15): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.cpp(37): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.cpp(54): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.cpp(68): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\workspace\codelearning\learningccpp\kythuattinhtong\kythuattinhtong\sumtool.cpp(71): warning C4114: same type qualifier used more than once
+  KYTHUATTINHTONG.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\KYTHUATTINHTONG\Debug\KYTHUATTINHTONG.exe

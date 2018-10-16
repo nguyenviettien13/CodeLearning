@@ -1,0 +1,3 @@
+﻿  Sum.cpp
+c:\users\tienn\documents\visual studio 2017\projects\task086\task086\sum.cpp(20): warning C4244: '+=': conversion from 'double' to 'long', possible loss of data
+  task086.vcxproj -> c:\Users\tienn\documents\visual studio 2017\Projects\task086\Debug\task086.exe

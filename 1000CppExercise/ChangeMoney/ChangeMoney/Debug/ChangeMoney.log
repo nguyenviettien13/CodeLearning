@@ -1,0 +1,5 @@
+﻿  ChangeMoney.cpp
+d:\workspace\codelearning\learningccpp\changemoney\changemoney\changemoney.cpp(14): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\workspace\codelearning\learningccpp\changemoney\changemoney\changemoney.cpp(14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\workspace\codelearning\learningccpp\changemoney\changemoney\changemoney.cpp(20): error C2059: syntax error: '...'
+d:\workspace\codelearning\learningccpp\changemoney\changemoney\changemoney.cpp(21): error C3860: template argument list following class template name must list parameters in the order used in template parameter list

@@ -1,0 +1,38 @@
+﻿  Array.cc
+  benchHash.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\map.h(138): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+  BlockMalloc.cc
+  LHash.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\map.h(138): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+  LHashTrie.cc
+  Map.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\map.h(138): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+  Map2.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\map.h(138): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+  MemStats.cc
+  SArray.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\map.h(138): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+  SArrayTrie.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\map.h(138): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+  testArray.cc
+  testBlockMalloc.cc
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\testblockmalloc.cc(32): error C3861: 'drand48': identifier not found
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\testblockmalloc.cc(35): error C2872: 'data': ambiguous symbol
+  d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\testblockmalloc.cc(22): note: could be 'void *data[10000000]'
+  d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\testblockmalloc.cc(35): note: or       'data'
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\testblockmalloc.cc(36): error C2872: 'data': ambiguous symbol
+  d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\testblockmalloc.cc(22): note: could be 'void *data[10000000]'
+  d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\testblockmalloc.cc(36): note: or       'data'
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\testblockmalloc.cc(38): error C2872: 'data': ambiguous symbol
+  d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\testblockmalloc.cc(22): note: could be 'void *data[10000000]'
+  d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\testblockmalloc.cc(38): note: or       'data'
+d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\testblockmalloc.cc(45): error C2872: 'data': ambiguous symbol
+  d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\testblockmalloc.cc(22): note: could be 'void *data[10000000]'
+  d:\workspace\codelearning\learningccpp\optionparser\lib_dstruct\src\testblockmalloc.cc(45): note: or       'data'
+  testCachedMem.cc

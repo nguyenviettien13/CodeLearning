@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{E7E0E693-C87D-4AE0-B057-1A2CEB4059A1}</ProjectGuid>
+    <RootNamespace>dstruct</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>D:\WorkSpace\CodeLearning\LearningCCPP\OptionParser\lib_misc\src;D:\WorkSpace\CodeLearning\LearningCCPP\OptionParser\lib_oolm\src;D:\WorkSpace\CodeLearning\LearningCCPP\OptionParser\lib_z\src;D:\WorkSpace\CodeLearning\LearningCCPP\OptionParser\lib_lattice\src;D:\WorkSpace\CodeLearning\LearningCCPP\OptionParser\lib_dstruct\src;D:\WorkSpace\CodeLearning\LearningCCPP\OptionParser\lib_flm\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\lib_dstruct\src\Array.h" />
+    <ClInclude Include="..\..\..\..\lib_dstruct\src\BlockMalloc.h" />
+    <ClInclude Include="..\..\..\..\lib_dstruct\src\CachedMem.h" />
+    <ClInclude Include="..\..\..\..\lib_dstruct\src\DStructThreads.h" />
+    <ClInclude Include="..\..\..\..\lib_dstruct\src\IntervalHeap.h" />
+    <ClInclude Include="..\..\..\..\lib_dstruct\src\LHash.h" />
+    <ClInclude Include="..\..\..\..\lib_dstruct\src\Map.h" />
+    <ClInclude Include="..\..\..\..\lib_dstruct\src\Map2.h" />
+    <ClInclude Include="..\..\..\..\lib_dstruct\src\MemStats.h" />
+    <ClInclude Include="..\..\..\..\lib_dstruct\src\SArray.h" />
+    <ClInclude Include="..\..\..\..\lib_dstruct\src\Trie.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\Array.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\benchHash.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\BlockMalloc.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\CachedMem.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\DStructThreads.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\IntervalHeap.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\LHash.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\LHashTrie.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\Map.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\Map2.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\maxalloc.c" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\MemStats.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\qsort.c" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\SArray.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\SArrayTrie.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\testArray.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\testBlockMalloc.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\testCachedMem.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\testFloatMap.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\testHash.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\testMap.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\testMap2.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\testSizes.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\testTrie.cc" />
+    <ClCompile Include="..\..\..\..\lib_dstruct\src\Trie.cc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

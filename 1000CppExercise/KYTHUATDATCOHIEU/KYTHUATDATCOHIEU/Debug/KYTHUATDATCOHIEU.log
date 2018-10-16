@@ -1,0 +1,28 @@
+﻿  Flag.cpp
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.h(12): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.h(18): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.h(29): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.h(35): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.h(43): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.h(50): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.h(62): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.h(68): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.h(73): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.h(79): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.h(84): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.h(90): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.h(96): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.cpp(14): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.cpp(23): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.cpp(82): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.cpp(96): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.cpp(121): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.cpp(145): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.cpp(163): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.cpp(181): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.cpp(197): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.cpp(213): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.cpp(231): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.cpp(250): warning C4114: same type qualifier used more than once
+d:\workspace\codelearning\learningccpp\kythuatdatcohieu\kythuatdatcohieu\flag.cpp(269): warning C4114: same type qualifier used more than once
+  KYTHUATDATCOHIEU.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\KYTHUATDATCOHIEU\Debug\KYTHUATDATCOHIEU.exe

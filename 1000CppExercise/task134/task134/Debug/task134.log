@@ -1,0 +1,6 @@
+﻿  Sentinal.cpp
+d:\workspace\codelearning\learningccpp\task134\task134\sentinal.cpp(215): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\workspace\codelearning\learningccpp\task134\task134\sentinal.cpp(215): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\workspace\codelearning\learningccpp\task134\task134\sentinal.cpp(255): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\workspace\codelearning\learningccpp\task134\task134\sentinal.cpp(255): warning C4305: 'initializing': truncation from 'double' to 'float'
+  task134.vcxproj -> D:\WorkSpace\CodeLearning\LearningCCPP\task134\Debug\task134.exe
